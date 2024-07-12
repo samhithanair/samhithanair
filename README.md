@@ -4,8 +4,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Samhitha_Nair-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/samhithanair)](https://x.com/samhithanair)
 
 
-
-### Tech Stack
 ## AI
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
