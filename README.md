@@ -25,7 +25,7 @@ Forecasts household electricity consumption with an LSTM, and compares centraliz
 `PyTorch/TensorFlow` · `Federated Learning` · `Time Series`
 <!-- Once you have numbers, add one line here, e.g.: "Federated model reaches X% of centralized accuracy (RMSE A vs B)." -->
  
-### 🎨 [Adaptive Art Restoration](https://github.com/samhithanair/Adaptive-Art-Restoration-Using-Digital-Image-Processing) · [Live demo](https://adaptive-art-restoration.streamlit.app/)
+### 🎨 [Adaptive Art Restoration](https://github.com/samhithanair/Adaptive-Art-Restoration-Using-Digital-Image-Processing)
 An image restoration pipeline that measures brightness, contrast and noise (SNR) in an input image and automatically chooses which corrections to apply: gamma correction, contrast stretching, dark-channel-prior dehazing, denoising and sharpening.
 `Python` · `Image Processing` · `Streamlit`
   
