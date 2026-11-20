@@ -1,4 +1,53 @@
-### VITC'25
+# Hi, I'm Samhitha 👋
+ 
+**Software Development Engineer at UST Innovation Lab, researching machine learning applications and quantum sensing.** Computer Science graduate, VIT Chennai (2025).
+ 
+I'm interested in how ML systems can learn from data that is distributed, private, noisy, or physically measured, from smart-meter readings to quantum sensor signals, and in building models that are not just accurate but reproducible and well understood. I'm currently applying to Master's programs in Computer Science / AI & ML.
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-samhithanair.com-4B5563?style=flat-square&logo=googlechrome&logoColor=white)](https://samhithanair.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samhitha_Nair-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhithanair/)
+[![X](https://img.shields.io/badge/X-@samhithanair-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/samhithanair)
+ 
+---
+ 
+## 🔬 Research interests
+ 
+- **ML for quantum sensing:** applying machine learning to extract signal from noisy quantum sensor measurements [e.g. denoising, calibration, parameter estimation]
+- **Federated & privacy-preserving learning:** training models across decentralized clients without pooling raw data
+- **Time-series forecasting:** sequence models (LSTMs, and next, Transformers) for real-world signals like energy demand
+- **Computer vision & image restoration:** adaptive pipelines that diagnose an image before deciding how to fix it
+---
+ 
+## 📌 Featured projects
+ 
+### ⚡ [Federated Energy Forecasting with LSTMs](https://github.com/samhithanair/Energy-Consumption-Using-LSTM-and-Federated-Learning)
+Forecasts household electricity consumption with an LSTM, and compares centralized training against a federated setup where each household's data never leaves the client.
+`PyTorch/TensorFlow` · `Federated Learning` · `Time Series`
+<!-- Once you have numbers, add one line here, e.g.: "Federated model reaches X% of centralized accuracy (RMSE A vs B)." -->
+ 
+### 🎨 [Adaptive Art Restoration](https://github.com/samhithanair/Adaptive-Art-Restoration-Using-Digital-Image-Processing) · [Live demo](https://adaptive-art-restoration.streamlit.app/)
+An image restoration pipeline that measures brightness, contrast and noise (SNR) in an input image and automatically chooses which corrections to apply: gamma correction, contrast stretching, dark-channel-prior dehazing, denoising and sharpening.
+`Python` · `Image Processing` · `Streamlit`
+  
+---
+ 
+## 🛠️ Tools I use
+ 
+**Core:** Python · PyTorch · TensorFlow / Keras · scikit-learn · NumPy · Pandas · Jupyter
+**Also familiar with:** C / C++ · Java · SQL · Git · [Docker] · [OpenCV]
+<!--
+  Keep only what you can defend in an interview or SOP. If a tool isn't shown in any
+  repo, either move it to "Also familiar with" or remove it.
+-->
+ 
+---
+ 
+## 📝 Currently
+ 
+- 💼 **SDE at UST Innovation Lab**, researching ML applications and quantum sensing
+- 🎓 Applying to MS programs in Computer Science / AI & ML (Fall [2027])
+- 📖 Reading: [paper or topic you're currently studying, e.g. "machine learning for quantum state estimation"]
+- 🌐 More about my work: **[samhithanair.com](https://samhithanair.com)**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Samhitha_Nair-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samhithanair/)](https://www.linkedin.com/in/samhithanair/)
 [![Twitter Badge](https://img.shields.io/badge/-Samhitha_Nair-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/samhithanair)](https://x.com/samhithanair)
