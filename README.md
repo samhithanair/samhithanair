@@ -37,17 +37,29 @@ Fifth Congress on Intelligent Systems (CIS 2024), Springer, 2025.
 
 ## 📌 Featured projects
 
-### ⚡ [Federated Energy Forecasting with LSTMs](https://github.com/samhithanair/Energy-Consumption-Using-LSTM-and-Federated-Learning)
+### 🧬 [Molecular Property Prediction Using Geometric Deep Learning](https://github.com/samhithanair/molecular-property-predictor)
 
-Forecasts household electricity consumption using LSTMs and compares centralized training against federated learning, where household data remains local to each client. Implements FedAvg across simulated non-IID clients.
+Predicts molecular properties using 3D molecular representations and geometric deep learning, exploring how spatial structure and atomic interactions influence molecular behavior.
 
-`PyTorch` · `Federated Learning` · `LSTM` · `Time Series`
+`Python` · `PyTorch` · `Geometric Deep Learning` · `Molecular Modeling`
 
-### 📈 [StockAI – Stock Analysis Tool Agent](https://github.com/sbkowshik/StockAI)
+### 📈 [Stock Market Forecasting Using Reinforcement Learning](https://github.com/samhithanair/Stock-Market-Forecasting-Using-Reinforcement-Learning)
 
-An AI-powered stock analysis tool combining historical market data, technical indicators, machine learning-based price prediction and natural-language interaction to support stock market analysis.
+Explores reinforcement learning for financial market forecasting and decision-making, investigating how agents can learn trading strategies from historical market dynamics.
 
-`Python` · `Machine Learning` · `Random Forest` · `Streamlit` · `AI Agents`
+`Python` · `Reinforcement Learning` · `Financial ML` · `Time Series`
+
+### 🔍 [Explainable AI for Financial Fraud Detection](https://github.com/samhithanair/XAI-for-Financial-Fraud)
+
+Investigates explainable machine learning techniques for financial fraud detection, focusing on model interpretability and understanding the features influencing predictive decisions.
+
+`Python` · `Explainable AI` · `Machine Learning` · `Financial Analytics`
+
+### 🕸️ [GNN Cipher Study](https://github.com/samhithanair/gnn-cipher-study)
+
+Explores graph neural networks for cryptographic analysis, investigating how graph representations and message-passing architectures can capture structural patterns in cipher-related problems.
+
+`Python` · `Graph Neural Networks` · `Deep Learning` · `Graph Representation Learning`
 
 ---
 
