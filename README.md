@@ -99,8 +99,3 @@ Explores graph neural networks for cryptographic analysis, investigating how gra
 - 🎓 Applying to MS programs in Computer Science / AI & ML (**Fall 2027**).
 - 📖 Reading: Research on machine learning for quantum state estimation and quantum sensing.
 - 🌐 More about my work: **[samhithanair.com](https://samhithanair.com)**
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samhitha_Nair-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhithanair/)
-[![X](https://img.shields.io/badge/X-@samhithanair-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/samhithanair)
